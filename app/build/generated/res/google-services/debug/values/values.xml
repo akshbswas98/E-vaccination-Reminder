@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">289882309025-d56fhmgbfuoc19s0iirfrs1iv2ag0m4c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://pacem-3548f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">289882309025</string>
+    <string name="google_api_key" translatable="false">AIzaSyCLAmvRKevp3aMoP-Y5k0yNehsLEnqBwn4</string>
+    <string name="google_app_id" translatable="false">1:289882309025:android:e759f41783f18229868be0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCLAmvRKevp3aMoP-Y5k0yNehsLEnqBwn4</string>
+    <string name="google_storage_bucket" translatable="false">pacem-3548f.appspot.com</string>
+    <string name="project_id" translatable="false">pacem-3548f</string>
+</resources>
